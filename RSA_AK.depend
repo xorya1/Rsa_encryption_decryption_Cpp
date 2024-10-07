@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608910611 source:c:\users\khadr\onedrive\documents\cb\rsa_ak\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

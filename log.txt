@@ -1,0 +1,12 @@
+[Rsa: log]
+			    P = 13	Q = 11
+			    N = P*Q = 143	Phi = (P-1) (Q-1) = 120
+			    E = 7
+			    K = 6	D = (Phi*K+1)/E = 103
+			    La cle publique (e,n) = (7,143)
+			    La cle prive (d,n) = (103,143)
+
+			    PlainText: Khadrani
+			    PlainText(ASCII): Khadrani
+			    CypherText(ASCII): r[;d1;!v
+			    CypherText: r[;d1;!v
